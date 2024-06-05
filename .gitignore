@@ -1,0 +1,35 @@
+# Компилированные Java классы
+*.class
+
+# Сгенерированные файлы логов
+*.log
+
+# Сгенерированные каталоги
+bin/
+build/
+out/
+
+# Каталог настроек IntelliJ IDEA
+.idea/
+
+# Настройки проекта IntelliJ IDEA
+*.iml
+*.iws
+
+# Каталог настроек Eclipse
+.settings/
+.project
+.classpath
+
+# Каталог настроек NetBeans
+nbproject/
+
+# Каталог настроек Gradle
+.gradle/
+build/
+
+# Каталоги настройки VS Code
+.vscode/
+
+# Каталоги настройки Windows
+Thumbs.db
