@@ -1,6 +1,6 @@
 
-	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(ΕΈκέψÿÿÿÿJ$a27e80e2-2504-4673-a816-402004c2b8e4
+	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(ΕΈκέψÿÿÿÿJ$e7c2be67-7314-468c-835e-4ffa15538895
 V
-java:S1220""Move this file to a named package.J$0a35c6fd-c93c-44c6-9645-808e2ceb210a
-Δ
-java:S1186"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(Ηµν‘8ΞµΙώ1J$9bfe0019-6593-4039-b1c1-b4131ca39577
+java:S1220""Move this file to a named package.J$ad457744-d93e-45b2-b7c1-456fddee888c
+
+java:S2094"BRemove this empty class, write its code or make it an "interface".(ΕΈκέψÿÿÿÿ8§γρώ1J$9fb68895-66d1-40e4-ba19-82b3cd6a7f19
